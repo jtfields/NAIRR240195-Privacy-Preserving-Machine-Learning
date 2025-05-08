@@ -1,7 +1,5 @@
  <h1>Privacy Preserving machine learning for educational data</h1>
 
- <p>This repository contains analysis code and data processing tools for the research paper:<a href="published paper link">heading</a>
-</p>
 <h3>Overview</h3>
 
 <p>This project supports the National Artificial Intelligence Research Resource (NAIRR) initiative and is funded under the grant <b>NAIRR240195</b>. 
