@@ -15,8 +15,7 @@ To learn more about NAIRR, <a href="https://nairrpilot.org/projects/awarded?_req
 <h3>PySyft Implementation</h3>
 <p>This project leverages PySyft, a privacy-preserving machine learning framework. Key PySyft features used include:</p>
 <ul>
-  <li>Federated Learning: Allows model training across multiple data sources without sharing raw data</li>
-  <li>Secure Multi-Party Computation (SMPC): Enables computation on encrypted data</li>
+  <li>Remote Data Science: Enables testing models on private data without access to the data</li>
   <li>Differential Privacy: Adds noise to protect individual privacy while maintaining statistical utility</li>
 </ul>   </br>
 <p align="center">
