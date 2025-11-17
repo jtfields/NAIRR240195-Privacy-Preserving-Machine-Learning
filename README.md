@@ -58,4 +58,6 @@ For general PySyft documentation, visit <a href="https://github.com/OpenMined/Py
 
 <h3>Citation</h3>
 <p>If this work is useful to you in any way, please cite the corresponding paper:
-<a href="paper link">heading</a>paper details</p>
+Fields, J., Islam, K. M. S., Thota, R., Chen, V., & Madiraju, P. (under review). 
+    A privacy-preserving framework using remote data science for inter-institutional 
+    student retention prediction. Journal of Educational Data Mining.</p>
