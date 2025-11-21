@@ -22,6 +22,9 @@ To learn more about NAIRR, <a href="https://nairrpilot.org/projects/awarded?_req
   <img src="https://github.com/user-attachments/assets/37bf776b-bc66-49d3-9f66-4dcd81dafd26" width="600" alt="Screenshot 2025-04-22 at 6 17 39 PM" />
 </p>
 
+<img width="1830" height="1275" alt="NAIRR Architecture-2" src="https://github.com/user-attachments/assets/125b7db3-23d8-4db8-b97e-9b73338d1f20" />
+
+
 <p>For detailed information on using PySyft in this project, see the documentation in docs/pysyft/.
 For general PySyft documentation, visit <a href="https://github.com/OpenMined/PySyft">OpenMined PySyft Documentation</a></p>
 
