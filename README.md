@@ -18,9 +18,6 @@ To learn more about NAIRR, <a href="https://nairrpilot.org/projects/awarded?_req
   <li>Remote Data Science: Enables testing models on private data without access to the data</li>
   <li>Differential Privacy: Adds noise to protect individual privacy while maintaining statistical utility</li>
 </ul>   </br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/37bf776b-bc66-49d3-9f66-4dcd81dafd26" width="600" alt="Screenshot 2025-04-22 at 6 17 39 PM" />
-</p>
 
 <img width="1830" height="1275" alt="NAIRR Architecture-2" src="https://github.com/user-attachments/assets/125b7db3-23d8-4db8-b97e-9b73338d1f20" />
 
