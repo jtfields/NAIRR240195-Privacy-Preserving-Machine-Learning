@@ -27,13 +27,10 @@ For general PySyft documentation, visit <a href="https://github.com/OpenMined/Py
 
 <h3>Architecture</h3>
 <p>The diagram below outlines the secure data flow and processes between the High Side and Low Side servers used in this project.</br>
-<p align = "center">
- <img src="https://github.com/user-attachments/assets/7ad29886-0b06-44c6-b8cd-8c92b0ef0332" 
-     alt="Excalidraw Diagram" 
-     style="width: 600px; height: 400px;">
 
 
-</p>
+<img width="6295" height="5042" alt="Architecture" src="https://github.com/user-attachments/assets/736a5746-7ea7-4f68-b476-aa5e5902a40e" />
+
   
 <h3>Technical Implementation</h3>
 <p>The project uses a dual-server architecture:</p>
