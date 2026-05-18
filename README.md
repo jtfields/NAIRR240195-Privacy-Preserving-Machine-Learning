@@ -10,7 +10,7 @@ To learn more about NAIRR, <a href="https://nairrpilot.org/projects/awarded?_req
 <h3>Data Sources</h3>
 <ul>
   <li><p><b>Faketucky Dataset:</b> Mock dataset created from the Faketucky dataset.  Used for development and testing on the low-side server.</p></li>
-  <li><b>Private Faketucky Dataset:</b> Faketucky dataset used as the "private" data for testing on the high-side server under strict security protocols.</li>
+  <li><b>Private Faketucky Dataset:</b> Mock Faketucky dataset used as the "private" data for testing on the high-side server under strict security protocols.</li>
 </ul>
 <h3>PySyft Implementation</h3>
 <p>This project leverages PySyft, a privacy-preserving machine learning framework. Key PySyft features used include:</p>
