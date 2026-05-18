@@ -1,6 +1,4 @@
-**Note:** Notebooks are being updated to match the workflow described
-> below. Some cells may still contain Colab-specific paths or placeholder
-> credentials; see comments in each notebook.
+**Note:** Notebooks are being updated to match the workflow described below. Some cells may still contain Colab-specific paths or placeholder credentials; see comments in each notebook.
 
 # Privacy-Preserving Machine Learning for Student Retention
 
