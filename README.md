@@ -56,4 +56,4 @@ For general PySyft documentation, visit <a href="https://github.com/OpenMined/Py
 <h3>Citation</h3>
 <p>If this work is useful to you in any way, please cite the corresponding paper:
 Fields, J., Islam, K. M. S., Thota, R., Chen, V., & Madiraju, P. 
-    A Privacy-Preserving Framework Using Remote Data Science for Inter-Institutional Student Retention Prediction. Conference. 2026 IEEE Information Reuse and Integration for Data Science.</p>
+    A Privacy-Preserving Framework Using Remote Data Science for Inter-Institutional Student Retention Prediction.  2026 IEEE Information Reuse and Integration for Data Science Conference.</p>
