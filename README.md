@@ -5,7 +5,7 @@
 <p>This project supports the National Artificial Intelligence Research Resource (NAIRR) initiative and is sponsored under the grant <b>NAIRR240195</b>. 
 To learn more about NAIRR, <a href="https://nairrpilot.org/projects/awarded?_requestNumber=NAIRR240195">click here</a><br></p>
 
-<p>We utilize OpenMined’s PySyft as a core component. The purpose of this project is to develop privacy-preserving machine learning models to improve student retention prediction in higher education, while adhering to FERPA (Family Educational Rights and Privacy Act) and GDRP regulations. This framework enables secure, privacy-respecting collaboration across institutions without compromising student data privacy.</p>
+<p>We utilize OpenMined’s PySyft as a core component. The purpose of this project is to develop privacy-preserving machine learning models to improve student retention prediction in higher education, while adhering to FERPA (Family Educational Rights and Privacy Act) and GDPR (Global Data Protection Regulation). This framework enables secure, privacy-respecting collaboration across institutions without compromising student data privacy.</p>
 
 <h3>Data Sources</h3>
 <ul>
