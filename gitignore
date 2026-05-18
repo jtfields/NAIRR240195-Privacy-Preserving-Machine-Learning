@@ -1,0 +1,93 @@
+# =============================================================================
+# .gitignore for NAIRR240195-Privacy-Preserving-Machine-Learning
+# =============================================================================
+# Lines starting with # are comments. Blank lines are ignored.
+# A trailing / means "directory". A leading * is a wildcard.
+# =============================================================================
+
+
+# --- Data files ---------------------------------------------------------------
+# Never commit raw data. Faketucky should be fetched from OpenSDP; private
+# institutional data must never leave the high-side server.
+*.dta
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+
+# The Faketucky data repo if cloned as a subdirectory
+faketucky/
+
+
+# --- Model artifacts ----------------------------------------------------------
+# Trained models and serialized objects are derived from data; regenerate
+# them locally rather than checking them in.
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Output directory created by Faketucky Classification notebook
+retention_model_outputs/
+
+
+# --- Jupyter ------------------------------------------------------------------
+# Jupyter writes auto-save checkpoints into this folder; never useful to track.
+.ipynb_checkpoints/
+
+
+# --- Secrets and credentials --------------------------------------------------
+# PySyft login info, API keys, anything sensitive. NEVER commit these.
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.yaml
+secrets.yml
+
+
+# --- Python build and cache files --------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+
+# --- IDE and editor files -----------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+
+# --- OS files -----------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+desktop.ini
