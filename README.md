@@ -29,8 +29,7 @@ server hosts synthetic and mock data and is accessible to external researchers;
 the **high-side** server holds the real institutional data and accepts only
 data-owner-approved code submissions.
 
-<img width="1830" height="1275" alt="NAIRR Architecture"
-     src="https://github.com/user-attachments/assets/125b7db3-23d8-4db8-b97e-9b73338d1f20" />
+<img alt="NAIRR Architecture" src="NAIRR_Architecture.png" width="800" />
 
 ### Server specifications (as deployed)
 
